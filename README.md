@@ -33,7 +33,7 @@ ALTER USER 'sys_temp'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 ![Скриншот-3](https://github.com/BadaBo0m/sdb-homework-12-02/blob/main/images/3.png)
 
-```sql
+```
 mysql -u root -p
 CREATE USER 'sys_temp'@'localhost' IDENTIFIED BY 'password';
 CREATE DATABASE sakila DEFAULT CHARACTER SET utf8 DEFAULT COLLATE utf8_general_ci;
