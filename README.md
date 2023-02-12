@@ -11,8 +11,7 @@
 
 1.3. Выполните запрос на получение списка пользователей в базе данных. (скриншот)
 
-![Скриншот-1](https://github.com/BadaBo0m/sdb-homework-12-02/main/images/1.png)
-
+![Скриншот-1](https://github.com/BadaBo0m/sdb-homework-12-02/blob/main/images/1.png)
 
 1.4. Дайте все права для пользователя sys_temp. 
 
