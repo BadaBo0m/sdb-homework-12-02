@@ -39,6 +39,7 @@ CREATE USER 'sys_temp'@'localhost' IDENTIFIED BY 'password';
 CREATE DATABASE sakila DEFAULT CHARACTER SET utf8 DEFAULT COLLATE utf8_general_ci;
 GRANT ALL PRIVILEGES ON sakila.* TO 'sys_temp'@'localhost';
 FLUSH PRIVILEGES;
+\q
 
 wget https://downloads.mysql.com/docs/sakila-db.zip
 unzip sakila-db.zip
